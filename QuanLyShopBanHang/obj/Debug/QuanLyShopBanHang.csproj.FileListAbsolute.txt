@@ -1,0 +1,12 @@
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\bin\Debug\QuanLyShopBanHang.exe.config
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.csprojResolveAssemblyReference.cache
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.fAdmin.resources
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.flogin.resources
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.fManager.resources
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.Properties.Resources.resources
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.csproj.GenerateResource.Cache
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\bin\Debug\QuanLyShopBanHang.exe
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\bin\Debug\QuanLyShopBanHang.pdb
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.exe
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.pdb
+E:\Học Kỳ 2 năm3\Tài Liệu NMCNPM\C#_QLSHOP\QuanLyShopBanHang\QuanLyShopBanHang\obj\Debug\QuanLyShopBanHang.fAccountProfile.resources
